@@ -112,5 +112,3 @@ This type of analysis is used in:
 ## Author
 
 Raziel Rosas 
-
-Raziel Rosas
